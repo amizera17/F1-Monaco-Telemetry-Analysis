@@ -146,7 +146,7 @@ The combination of brake release, minimum speed and throttle behaviour is consis
 
 ![Antony Noghes telemetry](Figures/07_antony_noghes.png)
 
-Norris gained approximately **0.111 s** across the analysed final section.
+Norris was approximately **0.111 s faster** across the analysed final section.
 
 Norris carried approximately 2 km/h more minimum speed and began accelerating slightly earlier. The speed difference was small, but because Antony Noghes leads onto the run to the finish line, a small exit-speed advantage can continue to influence elapsed time after the corner.
 
